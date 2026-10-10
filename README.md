@@ -44,7 +44,7 @@ This started as a small HTML/CSS/JS web project and was rebuilt in React Native 
 ## Project structure
 
 ```
-giphy-native/
+giphy_native/
 ├── App.js                  # Navigation setup, Redux Provider, startup login check
 ├── store.js                # Redux store
 ├── slices/
@@ -73,8 +73,8 @@ giphy-native/
 1. Clone the repository and install dependencies:
 
    ```bash
-   git clone https://github.com/MOHDASSAF/giphy-native.git
-   cd giphy-native
+   git clone https://github.com/MOHDASSAF/giphy_native.git
+   cd giphy_native
    npm install
    ```
 
